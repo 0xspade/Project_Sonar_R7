@@ -8,3 +8,5 @@ In cron job
 ```
 
 Every week download the file in your VPS :D
+
+Go and get your api first in https://opendata.rapid7.com/sonar.fdns_v2/ by creating an account
